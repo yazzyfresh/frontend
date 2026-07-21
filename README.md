@@ -43,10 +43,9 @@ I want to continue improving my CSS skills, especially with responsive layouts, 
 
 ### AI Collaboration
 
-I used ChatGPT to help debug my HTML and CSS, understand layout issues, and improve the spacing and styling of my project. I wrote the code myself and used AI as a learning tool when I got stuck.
+I used ChatGPT to help debug my HTML and CSS, understand layout issues. I wrote the code myself and used AI as a learning tool when I got stuck.
 
 ## Author
 
 * **Name:** Yazmin
-* **Frontend Mentor:** Add your Frontend Mentor profile link here.
-* **GitHub:** Add your GitHub profile link here.
+* **GitHub:** (https://github.com/yazzyfresh)
